@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAVVZZNNT2Q2PHWROE
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/390425570549/demo-queue
